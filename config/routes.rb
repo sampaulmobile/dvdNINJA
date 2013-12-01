@@ -6,6 +6,7 @@ DvdNINJA::Application.routes.draw do
 
   get '/rt', to: 'movies#index', rt: true, as: :rt
   get '/instant', to: 'movies#instant', as: :instant
-
+  get '/queue', to: 'movies#queue', as: :queue
+  get '/download/*url', to: 'movies#download', as: :download
 
 end

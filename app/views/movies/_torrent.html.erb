@@ -4,7 +4,9 @@
 
 
 
-<%= torrent.title %> - <%= link_to "Magnet", torrent.magnet_url %>
-<br>
+<tr>
+  <td><%= torrent.title %></td>
+  <td><%= link_to "Magnet", download_url(url: torrent.magnet_url) %></td>
+</tr>
 
 

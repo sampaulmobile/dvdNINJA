@@ -8,7 +8,7 @@ class MoviesController < ApplicationController
     if params[:phrase]
       @movies = Movie.where("title LIKE ?", "%#{params[:phrase]}%").order("release_date DESC")
     else
-      @movies = Movie.all.order("release_date DESC")
+      @movies = Movie.all.order("release_date DESC").limit(100)
     end
 
     if params[:rt]
@@ -17,15 +17,23 @@ class MoviesController < ApplicationController
   end
 
   def queue
-
-
+    if params[:phrase]
+      @torrents = Movie.search_pb(params[:phrase])
+    end
   end
 
   def instant
     if params[:phrase]
       @torrents = Movie.queue_magnets(params[:phrase])
     end
+  end
 
+  def download
+    if params[:url]
+      Torrent.download(params[:url])
+    end
+
+    redirect_to root_url
   end
 
 end

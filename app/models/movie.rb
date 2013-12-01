@@ -224,7 +224,7 @@ class Movie < ActiveRecord::Base
       magnets = links.css('a[title="Download this torrent using magnet"]')
         
       magnets[0..2].each do |m|
-        system("/Users/sampaul/Downloads/Torrents/queue_magnet.sh \"#{m['href']}\"")
+        Torrent.download(m['href'])
       end
     rescue
       return
@@ -232,5 +232,30 @@ class Movie < ActiveRecord::Base
   
     titles[0..2].map {|t| t.text}
   end
+
+  def self.search_pb(title)
+    clip = URI.escape(title)
+    url = "http://thepiratebay.sx/search/#{clip}/0/7/200"
+
+    torrents = []
+    begin
+      page = Nokogiri::HTML(open(url))
+
+      links = page.css('div[id="main-content"]')
+      titles = links.css('div[class="detName"] a')
+      magnets = links.css('a[title="Download this torrent using magnet"]')
+        
+      magnets.count.times do |i|
+        torrents << Torrent.new(title: titles[i].text, magnet_url: magnets[i]['href'])
+      end
+    rescue Exception => e
+      puts e
+      return
+    end
+  
+    torrents
+  end
+
+
 
 end

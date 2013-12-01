@@ -1,0 +1,21 @@
+
+<%= form_tag queue_path, :method => 'get' do %>
+  <p>
+    <%= text_field_tag :phrase, params[:phrase] %>
+    <%= submit_tag "Search", :name => nil %>
+  </p>
+<% end %>
+
+
+<% if @torrents %>
+  <h1> Found: </h1>
+
+  <table>
+    <tbody>
+    <%= render partial: 'movies/torrent', collection: @torrents, as: 'torrent' %>
+    </tbody>
+  </table>
+
+<% end %>
+
+
