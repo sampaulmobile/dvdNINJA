@@ -27,6 +27,10 @@ class Movie < ActiveRecord::Base
 
     self.parse_file(fname)
     @log_file.debug "Finished LOADING MOVIES in #{Time.now - start}"
+
+    delete(fname)
+    delete("new_csv.zip")
+
   end
 
   def self.download_csv(url, fname)
@@ -137,7 +141,6 @@ class Movie < ActiveRecord::Base
     end
   end
 
-
   def get_torrents
     title = self.title
 
@@ -221,7 +224,7 @@ class Movie < ActiveRecord::Base
       magnets = links.css('a[title="Download this torrent using magnet"]')
         
       magnets[0..2].each do |m|
-        system("/Users/sampaul/Downloads/Torrents/queue_torrent.sh \"#{m['href']}\"")
+        system("/Users/sampaul/Downloads/Torrents/queue_magnet.sh \"#{m['href']}\"")
       end
     rescue
       return
