@@ -1,0 +1,19 @@
+
+
+<% if @torrents %>
+  <h1> ADDED: </h1>
+
+  <%= @torrents.each do |t| %>
+    <li><%= t %></li>
+  <% end %>
+
+<% end %>
+
+
+<%= form_tag instant_path, :method => 'get' do %>
+  <p>
+    <%= text_field_tag :phrase, params[:phrase] %>
+    <%= submit_tag "Add", :name => nil %>
+  </p>
+<% end %>
+

@@ -1,0 +1,46 @@
+<h1>New movies</h1>
+
+<%= form_tag movies_path, :method => 'get' do %>
+  <p>
+    <%= text_field_tag :phrase, params[:phrase] %>
+
+    <%= submit_tag "Search", :name => nil %>
+  </p>
+<% end %>
+
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Title</th>
+      <th>DVD Release Date</th>
+      <th>Actor Count</th>
+      <th>Torrent Count</th>
+      <th>RT</th>
+      <th></th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @movies.each do |movie| %>
+      <tr>
+        <td><%= movie.title %></td>
+
+        <% if movie.release_date && Time.now < movie.release_date %>
+          <td><b><%= movie.release_date %></b></td>
+        <% else %>
+          <td><%= movie.release_date %></td>
+        <% end %>
+
+        <td><%= movie.actors.count %></td>
+        <td><%= movie.torrents.count %></td>
+        <td><%= movie.critics_score %>% / <%= movie.users_score %>%</td>
+
+        <td><%= link_to 'Show', movie %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<br>
+

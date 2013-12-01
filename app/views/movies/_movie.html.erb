@@ -1,0 +1,37 @@
+
+
+
+
+
+
+
+<tr>
+  <td><%= movie.title %></td>
+  <td><%= movie.studio %></td>
+  <td><%= movie.rating %></td>
+
+  <td><%= movie.year %></td>
+  <td><%= movie.genre %></td>
+  <td><%= movie.release_date %></td>
+
+  <td><%= movie.cover_pic_url %></td>
+  <td><%= movie.rt_summary %></td>
+  <td><%= movie.critics_score %></td>
+  <td><%= movie.users_score %></td>
+  <td><%= link_to "Actors", movie.actors %></td>
+</tr>
+
+<% if false %>
+  <%= movie.actors.each do |a| %>
+    <%= render a.first_name %>
+    <%= render a.last_name %>
+  
+  <% end %>
+
+  <%= movie.torrents.each do |t| %>
+      <%= render t.magnet_url %>
+  <% end %>
+
+  <%= render movie.actors %>
+
+<% end %>

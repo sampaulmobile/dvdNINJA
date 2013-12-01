@@ -1,0 +1,11 @@
+
+
+
+
+
+<%= render partial: 'movies/torrent', collection: @movie.torrents %>
+
+<%= @movie.actors.each do |a| %>
+  <%= a.first_name %> <%= a.last_name %>
+<% end %>
+
