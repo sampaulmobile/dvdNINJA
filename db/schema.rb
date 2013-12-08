@@ -11,7 +11,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20131130003420) do
+ActiveRecord::Schema.define(version: 20131206063832) do
 
   create_table "actors", force: true do |t|
     t.string   "first_name"
@@ -43,6 +43,8 @@ ActiveRecord::Schema.define(version: 20131130003420) do
     t.datetime "created_at"
     t.datetime "updated_at"
     t.string   "rt_id",         default: "-1"
+    t.boolean  "rt_torrented",  default: false
+    t.string   "rt_torrents",   default: ""
   end
 
   add_index "movies", ["title"], name: "index_movies_on_title", unique: true

@@ -2249,3 +2249,890 @@ D, [2013-11-29T20:43:30.697797 #46916] DEBUG -- : Created/Updated Frances Ha
 D, [2013-11-29T20:43:30.701728 #46916] DEBUG -- : Created/Updated Prince Avalanche
 D, [2013-11-29T20:43:30.706143 #46916] DEBUG -- : Created/Updated The Attack
 D, [2013-11-29T20:43:31.220026 #46916] DEBUG -- : Finished updating RT DVDs in 9.778344
+D, [2013-12-07T13:39:03.011660 #11922] DEBUG -- : Update RT DVDs started at 2013-12-07 13:39:03 -0500
+D, [2013-12-07T13:39:03.011746 #11922] DEBUG -- : 
+D, [2013-12-07T13:40:02.792071 #12148] DEBUG -- : Update RT DVDs started at 2013-12-07 13:40:02 -0500
+D, [2013-12-07T13:40:02.792169 #12148] DEBUG -- : 
+D, [2013-12-07T13:40:03.641934 #12148] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:40:03.645509 #12148] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:40:03.700772 #12148] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:40:03.712630 #12148] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:40:03.721043 #12148] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:40:03.726167 #12148] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:40:03.730195 #12148] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:40:03.733397 #12148] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:40:03.736121 #12148] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:40:03.739309 #12148] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:40:04.285382 #12148] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:40:04.287868 #12148] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:40:04.290006 #12148] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:40:04.340728 #12148] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:40:04.344390 #12148] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:40:04.346790 #12148] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:40:04.349032 #12148] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:40:04.414451 #12148] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:40:04.420453 #12148] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:40:04.423176 #12148] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:40:04.425449 #12148] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:40:04.428189 #12148] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:40:04.440956 #12148] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:40:04.450618 #12148] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:40:04.453846 #12148] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:40:04.466096 #12148] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:40:05.014251 #12148] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:40:05.021468 #12148] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:40:05.027491 #12148] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:40:05.033662 #12148] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:40:05.044646 #12148] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:40:05.103881 #12148] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:40:05.122362 #12148] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:40:05.140770 #12148] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:40:05.147424 #12148] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:40:05.149769 #12148] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:40:05.154473 #12148] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:40:05.173851 #12148] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:40:05.177004 #12148] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:40:05.182499 #12148] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:40:05.884228 #12148] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:40:05.891800 #12148] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:40:05.898976 #12148] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:40:05.936758 #12148] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:40:05.949318 #12148] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:40:05.965621 #12148] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:40:05.975615 #12148] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:40:05.987451 #12148] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:40:05.999503 #12148] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:40:06.015705 #12148] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:40:06.032259 #12148] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:40:06.045349 #12148] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:40:06.057493 #12148] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:40:06.077807 #12148] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:40:06.086974 #12148] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:40:06.095363 #12148] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:40:06.095454 #12148] DEBUG -- : Finished updating RT DVDs in 3.303426
+D, [2013-12-07T13:41:02.066325 #12342] DEBUG -- : Update RT DVDs started at 2013-12-07 13:41:02 -0500
+D, [2013-12-07T13:41:02.066421 #12342] DEBUG -- : 
+D, [2013-12-07T13:41:02.950203 #12342] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:41:02.953291 #12342] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:41:02.955447 #12342] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:41:02.957463 #12342] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:41:02.959497 #12342] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:41:02.961565 #12342] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:41:02.963576 #12342] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:41:02.965674 #12342] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:41:02.967778 #12342] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:41:02.969860 #12342] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:41:03.487856 #12342] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:41:03.490242 #12342] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:41:03.492543 #12342] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:41:03.494743 #12342] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:41:03.496897 #12342] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:41:03.499144 #12342] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:41:03.501400 #12342] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:41:03.503653 #12342] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:41:03.505800 #12342] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:41:03.507914 #12342] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:41:03.510061 #12342] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:41:03.512216 #12342] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:41:03.514433 #12342] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:41:03.516778 #12342] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:41:03.518888 #12342] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:41:03.520987 #12342] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:41:04.014911 #12342] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:41:04.018456 #12342] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:41:04.022220 #12342] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:41:04.025394 #12342] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:41:04.028245 #12342] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:41:04.031269 #12342] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:41:04.087324 #12342] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:41:04.089732 #12342] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:41:04.096707 #12342] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:41:04.099086 #12342] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:41:04.102061 #12342] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:41:04.104410 #12342] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:41:04.106623 #12342] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:41:04.114178 #12342] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:41:04.864323 #12342] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:41:04.866661 #12342] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:41:04.869400 #12342] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:41:04.871804 #12342] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:41:04.873983 #12342] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:41:04.876157 #12342] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:41:04.878348 #12342] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:41:04.880643 #12342] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:41:04.887155 #12342] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:41:04.891299 #12342] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:41:04.893578 #12342] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:41:04.895755 #12342] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:41:04.898211 #12342] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:41:04.906447 #12342] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:41:04.908925 #12342] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:41:04.911259 #12342] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:41:04.911329 #12342] DEBUG -- : Finished updating RT DVDs in 2.845046
+D, [2013-12-07T13:42:01.886999 #12537] DEBUG -- : Update RT DVDs started at 2013-12-07 13:42:01 -0500
+D, [2013-12-07T13:42:01.887094 #12537] DEBUG -- : 
+D, [2013-12-07T13:42:02.853429 #12537] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:42:02.856530 #12537] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:42:02.858727 #12537] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:42:02.860783 #12537] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:42:02.862837 #12537] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:42:02.866522 #12537] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:42:02.869374 #12537] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:42:02.871972 #12537] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:42:02.874668 #12537] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:42:02.877021 #12537] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:42:03.435383 #12537] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:42:03.437623 #12537] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:42:03.440406 #12537] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:42:03.442763 #12537] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:42:03.444950 #12537] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:42:03.447538 #12537] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:42:03.449725 #12537] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:42:03.451934 #12537] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:42:03.454109 #12537] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:42:03.456256 #12537] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:42:03.458406 #12537] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:42:03.460786 #12537] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:42:03.462937 #12537] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:42:03.465872 #12537] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:42:03.468735 #12537] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:42:03.471086 #12537] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:42:04.455305 #12537] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:42:04.458394 #12537] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:42:04.461481 #12537] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:42:04.465223 #12537] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:42:04.468336 #12537] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:42:04.471427 #12537] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:42:04.526505 #12537] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:42:04.540819 #12537] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:42:04.547573 #12537] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:42:04.549924 #12537] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:42:04.552060 #12537] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:42:04.554157 #12537] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:42:04.556266 #12537] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:42:04.558324 #12537] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:42:05.034859 #12537] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:42:05.037329 #12537] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:42:05.041228 #12537] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:42:05.043685 #12537] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:42:05.046135 #12537] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:42:05.048637 #12537] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:42:05.051116 #12537] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:42:05.053353 #12537] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:42:05.056776 #12537] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:42:05.059156 #12537] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:42:05.061411 #12537] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:42:05.063648 #12537] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:42:05.090995 #12537] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:42:05.093544 #12537] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:42:05.095877 #12537] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:42:05.098257 #12537] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:42:05.098332 #12537] DEBUG -- : Finished updating RT DVDs in 3.211373
+D, [2013-12-07T13:43:02.089424 #12718] DEBUG -- : Update RT DVDs started at 2013-12-07 13:43:02 -0500
+D, [2013-12-07T13:43:02.089527 #12718] DEBUG -- : 
+D, [2013-12-07T13:43:03.312462 #12718] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:43:03.315629 #12718] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:43:03.318440 #12718] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:43:03.323471 #12718] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:43:03.325919 #12718] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:43:03.328050 #12718] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:43:03.330398 #12718] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:43:03.332617 #12718] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:43:03.335021 #12718] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:43:03.337512 #12718] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:43:03.717934 #12718] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:43:03.720167 #12718] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:43:03.722392 #12718] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:43:03.724593 #12718] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:43:03.726726 #12718] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:43:03.729775 #12718] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:43:03.732064 #12718] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:43:03.734240 #12718] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:43:03.736400 #12718] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:43:03.738502 #12718] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:43:03.740702 #12718] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:43:03.743649 #12718] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:43:03.746380 #12718] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:43:03.748886 #12718] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:43:03.751539 #12718] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:43:03.753912 #12718] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:43:04.302941 #12718] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:43:04.306276 #12718] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:43:04.309633 #12718] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:43:04.312686 #12718] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:43:04.318390 #12718] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:43:04.321544 #12718] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:43:04.377844 #12718] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:43:04.380236 #12718] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:43:04.390398 #12718] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:43:04.396061 #12718] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:43:04.400075 #12718] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:43:04.402290 #12718] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:43:04.404777 #12718] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:43:04.407197 #12718] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:43:05.110617 #12718] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:43:05.112858 #12718] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:43:05.115095 #12718] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:43:05.117375 #12718] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:43:05.119405 #12718] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:43:05.121426 #12718] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:43:05.123435 #12718] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:43:05.125471 #12718] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:43:05.127563 #12718] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:43:05.129664 #12718] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:43:05.132635 #12718] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:43:05.135068 #12718] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:43:05.137693 #12718] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:43:05.140110 #12718] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:43:05.142892 #12718] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:43:05.146995 #12718] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:43:05.147074 #12718] DEBUG -- : Finished updating RT DVDs in 3.057689
+D, [2013-12-07T13:44:02.085392 #12902] DEBUG -- : Update RT DVDs started at 2013-12-07 13:44:02 -0500
+D, [2013-12-07T13:44:02.085493 #12902] DEBUG -- : 
+D, [2013-12-07T13:44:04.001219 #12902] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:44:04.004472 #12902] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:44:04.006783 #12902] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:44:04.009122 #12902] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:44:04.011804 #12902] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:44:04.014098 #12902] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:44:04.016216 #12902] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:44:04.018402 #12902] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:44:04.020534 #12902] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:44:04.022721 #12902] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:44:04.484581 #12902] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:44:04.488926 #12902] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:44:04.491233 #12902] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:44:04.493352 #12902] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:44:04.510048 #12902] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:44:04.512738 #12902] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:44:04.515119 #12902] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:44:04.517370 #12902] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:44:04.519628 #12902] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:44:04.521857 #12902] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:44:04.524176 #12902] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:44:04.526429 #12902] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:44:04.528829 #12902] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:44:04.531068 #12902] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:44:04.533373 #12902] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:44:04.535604 #12902] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:44:05.080890 #12902] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:44:05.083614 #12902] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:44:05.086296 #12902] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:44:05.088807 #12902] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:44:05.091362 #12902] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:44:05.093933 #12902] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:44:05.143784 #12902] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:44:05.146318 #12902] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:44:05.152271 #12902] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:44:05.154452 #12902] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:44:05.156554 #12902] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:44:05.158644 #12902] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:44:05.160750 #12902] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:44:05.162903 #12902] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:44:05.473866 #12902] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:44:05.476100 #12902] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:44:05.478836 #12902] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:44:05.481052 #12902] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:44:05.483159 #12902] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:44:05.485222 #12902] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:44:05.487286 #12902] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:44:05.490077 #12902] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:44:05.492628 #12902] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:44:05.495175 #12902] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:44:05.497310 #12902] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:44:05.499441 #12902] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:44:05.501483 #12902] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:44:05.503560 #12902] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:44:05.505592 #12902] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:44:05.507669 #12902] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:44:05.507725 #12902] DEBUG -- : Finished updating RT DVDs in 3.422374
+D, [2013-12-07T13:45:02.465337 #13083] DEBUG -- : Update RT DVDs started at 2013-12-07 13:45:02 -0500
+D, [2013-12-07T13:45:02.465431 #13083] DEBUG -- : 
+D, [2013-12-07T13:45:03.565119 #13083] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:45:03.568304 #13083] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:45:03.570531 #13083] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:45:03.572604 #13083] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:45:03.574737 #13083] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:45:03.577058 #13083] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:45:03.579136 #13083] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:45:03.581238 #13083] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:45:03.583313 #13083] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:45:03.585464 #13083] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:45:04.022054 #13083] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:45:04.024250 #13083] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:45:04.045197 #13083] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:45:04.047563 #13083] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:45:04.049669 #13083] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:45:04.051872 #13083] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:45:04.054077 #13083] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:45:04.056557 #13083] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:45:04.060088 #13083] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:45:04.062581 #13083] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:45:04.064900 #13083] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:45:04.067094 #13083] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:45:04.069226 #13083] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:45:04.071327 #13083] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:45:04.073418 #13083] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:45:04.076206 #13083] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:45:04.687070 #13083] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:45:04.690105 #13083] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:45:04.693333 #13083] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:45:04.696479 #13083] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:45:04.699688 #13083] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:45:04.748153 #13083] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:45:04.766560 #13083] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:45:04.769103 #13083] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:45:04.778180 #13083] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:45:04.780800 #13083] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:45:04.783039 #13083] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:45:04.785350 #13083] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:45:04.787659 #13083] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:45:04.789848 #13083] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:45:05.372861 #13083] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:45:05.376007 #13083] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:45:05.378769 #13083] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:45:05.381012 #13083] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:45:05.383112 #13083] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:45:05.385131 #13083] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:45:05.387216 #13083] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:45:05.389251 #13083] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:45:05.391272 #13083] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:45:05.393314 #13083] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:45:05.395350 #13083] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:45:05.397357 #13083] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:45:05.399358 #13083] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:45:05.401373 #13083] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:45:05.403368 #13083] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:45:05.405364 #13083] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:45:05.405420 #13083] DEBUG -- : Finished updating RT DVDs in 2.940121
+D, [2013-12-07T13:46:02.376219 #13272] DEBUG -- : Update RT DVDs started at 2013-12-07 13:46:02 -0500
+D, [2013-12-07T13:46:02.376309 #13272] DEBUG -- : 
+D, [2013-12-07T13:46:03.449487 #13272] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:46:03.452581 #13272] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:46:03.454928 #13272] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:46:03.457249 #13272] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:46:03.459408 #13272] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:46:03.462272 #13272] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:46:03.464521 #13272] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:46:03.466619 #13272] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:46:03.468687 #13272] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:46:03.470825 #13272] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:46:04.162575 #13272] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:46:04.165208 #13272] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:46:04.167887 #13272] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:46:04.170130 #13272] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:46:04.172330 #13272] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:46:04.174573 #13272] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:46:04.176885 #13272] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:46:04.179044 #13272] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:46:04.181134 #13272] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:46:04.183251 #13272] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:46:04.185352 #13272] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:46:04.187503 #13272] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:46:04.189641 #13272] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:46:04.191977 #13272] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:46:04.194163 #13272] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:46:04.196279 #13272] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:46:04.825519 #13272] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:46:04.828849 #13272] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:46:04.832150 #13272] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:46:04.835777 #13272] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:46:04.838771 #13272] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:46:04.882449 #13272] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:46:04.900604 #13272] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:46:04.903041 #13272] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:46:04.910381 #13272] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:46:04.912725 #13272] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:46:04.915118 #13272] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:46:04.917466 #13272] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:46:04.919670 #13272] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:46:04.922176 #13272] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:46:05.571561 #13272] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:46:05.574278 #13272] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:46:05.577025 #13272] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:46:05.579693 #13272] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:46:05.586975 #13272] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:46:05.590329 #13272] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:46:05.594872 #13272] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:46:05.597911 #13272] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:46:05.600733 #13272] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:46:05.605429 #13272] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:46:05.607896 #13272] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:46:05.612113 #13272] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:46:05.614443 #13272] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:46:05.616488 #13272] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:46:05.618561 #13272] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:46:05.620577 #13272] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:46:05.620634 #13272] DEBUG -- : Finished updating RT DVDs in 3.24445
+D, [2013-12-07T13:47:02.616897 #13494] DEBUG -- : Update RT DVDs started at 2013-12-07 13:47:02 -0500
+D, [2013-12-07T13:47:02.616987 #13494] DEBUG -- : 
+D, [2013-12-07T13:47:03.575323 #13494] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:47:03.578295 #13494] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:47:03.580427 #13494] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:47:03.582471 #13494] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:47:03.584612 #13494] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:47:03.587150 #13494] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:47:03.589344 #13494] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:47:03.591414 #13494] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:47:03.593510 #13494] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:47:03.595836 #13494] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:47:03.924300 #13494] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:47:03.935222 #13494] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:47:03.938604 #13494] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:47:03.940877 #13494] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:47:03.943098 #13494] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:47:03.945272 #13494] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:47:03.947411 #13494] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:47:03.949692 #13494] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:47:03.951970 #13494] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:47:03.954122 #13494] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:47:03.956480 #13494] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:47:03.958709 #13494] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:47:03.961092 #13494] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:47:03.963478 #13494] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:47:03.965650 #13494] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:47:03.968038 #13494] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:47:04.488365 #13494] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:47:04.491802 #13494] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:47:04.498666 #13494] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:47:04.503178 #13494] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:47:04.506372 #13494] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:47:04.581132 #13494] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:47:04.596886 #13494] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:47:04.599974 #13494] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:47:04.611243 #13494] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:47:04.614008 #13494] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:47:04.616328 #13494] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:47:04.619331 #13494] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:47:04.622348 #13494] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:47:04.625051 #13494] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:47:05.596516 #13494] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:47:05.598815 #13494] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:47:05.601329 #13494] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:47:05.603616 #13494] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:47:05.605813 #13494] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:47:05.608081 #13494] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:47:05.610318 #13494] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:47:05.612794 #13494] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:47:05.614981 #13494] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:47:05.617123 #13494] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:47:05.619290 #13494] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:47:05.621472 #13494] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:47:05.623880 #13494] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:47:05.626132 #13494] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:47:05.628302 #13494] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:47:05.630435 #13494] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:47:05.630498 #13494] DEBUG -- : Finished updating RT DVDs in 3.013637
+D, [2013-12-07T13:48:02.578807 #13682] DEBUG -- : Update RT DVDs started at 2013-12-07 13:48:02 -0500
+D, [2013-12-07T13:48:02.578902 #13682] DEBUG -- : 
+D, [2013-12-07T13:48:04.110938 #13682] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:48:04.123148 #13682] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:48:04.126377 #13682] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:48:04.128628 #13682] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:48:04.130836 #13682] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:48:04.133076 #13682] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:48:04.135273 #13682] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:48:04.137695 #13682] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:48:04.139929 #13682] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:48:04.142155 #13682] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:48:04.892994 #13682] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:48:04.895657 #13682] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:48:04.898019 #13682] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:48:04.919047 #13682] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:48:04.922303 #13682] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:48:04.938453 #13682] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:48:04.941952 #13682] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:48:04.944347 #13682] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:48:04.946504 #13682] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:48:04.948722 #13682] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:48:04.959012 #13682] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:48:04.961982 #13682] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:48:04.964588 #13682] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:48:04.966825 #13682] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:48:04.969010 #13682] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:48:04.993270 #13682] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:48:05.553124 #13682] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:48:05.557708 #13682] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:48:05.562894 #13682] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:48:05.565956 #13682] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:48:05.569093 #13682] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:48:05.622575 #13682] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:48:05.651885 #13682] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:48:05.656146 #13682] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:48:05.665596 #13682] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:48:05.668172 #13682] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:48:05.670859 #13682] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:48:05.673505 #13682] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:48:05.676090 #13682] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:48:05.679852 #13682] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:48:05.983433 #13682] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:48:05.986183 #13682] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:48:05.988997 #13682] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:48:05.991371 #13682] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:48:05.993545 #13682] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:48:05.995616 #13682] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:48:05.997677 #13682] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:48:05.999785 #13682] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:48:06.001905 #13682] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:48:06.003978 #13682] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:48:06.006141 #13682] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:48:06.008289 #13682] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:48:06.010381 #13682] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:48:06.012465 #13682] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:48:06.014516 #13682] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:48:06.016573 #13682] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:48:06.016630 #13682] DEBUG -- : Finished updating RT DVDs in 3.437859
+D, [2013-12-07T13:49:01.988396 #13864] DEBUG -- : Update RT DVDs started at 2013-12-07 13:49:01 -0500
+D, [2013-12-07T13:49:01.988484 #13864] DEBUG -- : 
+D, [2013-12-07T13:49:03.028776 #13864] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:49:03.031943 #13864] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:49:03.034422 #13864] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:49:03.036758 #13864] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:49:03.038873 #13864] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:49:03.041370 #13864] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:49:03.043512 #13864] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:49:03.045573 #13864] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:49:03.047910 #13864] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:49:03.050135 #13864] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:49:03.538937 #13864] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:49:03.541482 #13864] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:49:03.544011 #13864] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:49:03.546246 #13864] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:49:03.548866 #13864] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:49:03.553422 #13864] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:49:03.556648 #13864] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:49:03.559433 #13864] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:49:03.561588 #13864] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:49:03.563682 #13864] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:49:03.565853 #13864] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:49:03.568730 #13864] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:49:03.570999 #13864] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:49:03.573316 #13864] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:49:03.576012 #13864] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:49:03.578966 #13864] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:49:04.069056 #13864] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:49:04.072186 #13864] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:49:04.075221 #13864] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:49:04.078025 #13864] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:49:04.080789 #13864] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:49:04.126206 #13864] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:49:04.144529 #13864] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:49:04.147408 #13864] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:49:04.159266 #13864] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:49:04.161616 #13864] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:49:04.164187 #13864] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:49:04.166493 #13864] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:49:04.169009 #13864] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:49:04.172236 #13864] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:49:04.567710 #13864] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:49:04.571374 #13864] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:49:04.573765 #13864] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:49:04.576402 #13864] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:49:04.578753 #13864] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:49:04.580919 #13864] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:49:04.583159 #13864] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:49:04.587640 #13864] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:49:04.590153 #13864] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:49:04.592435 #13864] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:49:04.594702 #13864] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:49:04.596877 #13864] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:49:04.599319 #13864] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:49:04.606560 #13864] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:49:04.608891 #13864] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:49:04.611030 #13864] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:49:04.611102 #13864] DEBUG -- : Finished updating RT DVDs in 2.622739
+D, [2013-12-07T13:50:02.610637 #14046] DEBUG -- : Update RT DVDs started at 2013-12-07 13:50:02 -0500
+D, [2013-12-07T13:50:02.610734 #14046] DEBUG -- : 
+D, [2013-12-07T13:50:03.354896 #14046] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:50:03.358764 #14046] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:50:03.361491 #14046] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:50:03.364444 #14046] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:50:03.367232 #14046] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:50:03.369963 #14046] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:50:03.372399 #14046] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:50:03.374553 #14046] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:50:03.376666 #14046] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:50:03.378766 #14046] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:50:03.818211 #14046] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:50:03.821649 #14046] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:50:03.825537 #14046] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:50:03.828060 #14046] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:50:03.832894 #14046] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:50:03.835539 #14046] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:50:03.837867 #14046] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:50:03.840127 #14046] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:50:03.842353 #14046] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:50:03.844685 #14046] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:50:03.847103 #14046] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:50:03.849484 #14046] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:50:03.852103 #14046] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:50:03.854846 #14046] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:50:03.857155 #14046] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:50:03.859728 #14046] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:50:04.357690 #14046] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:50:04.361081 #14046] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:50:04.363757 #14046] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:50:04.366787 #14046] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:50:04.369791 #14046] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:50:04.372583 #14046] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:50:04.432042 #14046] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:50:04.434663 #14046] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:50:04.442424 #14046] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:50:04.444644 #14046] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:50:04.446973 #14046] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:50:04.449231 #14046] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:50:04.451402 #14046] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:50:04.453615 #14046] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:50:04.973921 #14046] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:50:04.976277 #14046] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:50:04.978595 #14046] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:50:04.980697 #14046] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:50:04.982745 #14046] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:50:04.986284 #14046] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:50:04.988502 #14046] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:50:04.992069 #14046] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:50:04.994301 #14046] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:50:04.996832 #14046] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:50:05.003270 #14046] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:50:05.006062 #14046] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:50:05.011925 #14046] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:50:05.014098 #14046] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:50:05.016952 #14046] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:50:05.019203 #14046] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:50:05.019263 #14046] DEBUG -- : Finished updating RT DVDs in 2.408667
+D, [2013-12-07T13:51:02.046212 #14230] DEBUG -- : Update RT DVDs started at 2013-12-07 13:51:02 -0500
+D, [2013-12-07T13:51:02.046308 #14230] DEBUG -- : 
+D, [2013-12-07T13:51:03.300135 #14230] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:51:03.304390 #14230] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:51:03.307163 #14230] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:51:03.309282 #14230] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:51:03.311397 #14230] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:51:03.313585 #14230] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:51:03.315701 #14230] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:51:03.317769 #14230] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:51:03.319810 #14230] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:51:03.321983 #14230] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:51:03.975912 #14230] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:51:03.978414 #14230] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:51:03.982822 #14230] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:51:03.985462 #14230] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:51:03.987731 #14230] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:51:03.989962 #14230] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:51:03.992442 #14230] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:51:03.998233 #14230] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:51:04.000861 #14230] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:51:04.003249 #14230] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:51:04.005754 #14230] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:51:04.008182 #14230] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:51:04.010409 #14230] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:51:04.012608 #14230] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:51:04.015138 #14230] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:51:04.017878 #14230] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:51:04.919655 #14230] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:51:04.922423 #14230] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:51:04.925250 #14230] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:51:04.927947 #14230] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:51:04.930528 #14230] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:51:04.933803 #14230] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:51:04.987712 #14230] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:51:04.989902 #14230] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:51:04.995920 #14230] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:51:04.998017 #14230] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:51:05.000228 #14230] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:51:05.002367 #14230] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:51:05.004723 #14230] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:51:05.007002 #14230] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:51:05.556416 #14230] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:51:05.558975 #14230] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:51:05.561306 #14230] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:51:05.563444 #14230] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:51:05.565530 #14230] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:51:05.567659 #14230] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:51:05.569691 #14230] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:51:05.571748 #14230] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:51:05.573811 #14230] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:51:05.575849 #14230] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:51:05.577865 #14230] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:51:05.580105 #14230] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:51:05.582828 #14230] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:51:05.584904 #14230] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:51:05.586959 #14230] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:51:05.588979 #14230] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:51:05.589036 #14230] DEBUG -- : Finished updating RT DVDs in 3.542867
+D, [2013-12-07T13:52:02.543707 #14413] DEBUG -- : Update RT DVDs started at 2013-12-07 13:52:02 -0500
+D, [2013-12-07T13:52:02.543796 #14413] DEBUG -- : 
+D, [2013-12-07T13:52:03.497897 #14413] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:52:03.501256 #14413] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:52:03.503567 #14413] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:52:03.505643 #14413] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:52:03.507684 #14413] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:52:03.509733 #14413] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:52:03.511781 #14413] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:52:03.513869 #14413] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:52:03.515917 #14413] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:52:03.518020 #14413] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:52:04.400883 #14413] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:52:04.403310 #14413] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:52:04.405460 #14413] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:52:04.408124 #14413] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:52:04.410305 #14413] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:52:04.412456 #14413] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:52:04.414867 #14413] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:52:04.417093 #14413] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:52:04.419255 #14413] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:52:04.421465 #14413] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:52:04.423626 #14413] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:52:04.425778 #14413] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:52:04.427904 #14413] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:52:04.430823 #14413] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:52:04.434024 #14413] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:52:04.437270 #14413] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:52:04.924783 #14413] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:52:04.928364 #14413] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:52:04.931246 #14413] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:52:04.934393 #14413] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:52:04.943016 #14413] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:52:05.017389 #14413] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:52:05.035867 #14413] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:52:05.038244 #14413] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:52:05.054228 #14413] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:52:05.056519 #14413] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:52:05.065768 #14413] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:52:05.069407 #14413] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:52:05.071640 #14413] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:52:05.073691 #14413] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:52:05.506819 #14413] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:52:05.509122 #14413] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:52:05.511251 #14413] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:52:05.514218 #14413] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:52:05.516507 #14413] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:52:05.518662 #14413] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:52:05.520768 #14413] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:52:05.522909 #14413] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:52:05.525003 #14413] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:52:05.527128 #14413] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:52:05.529389 #14413] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:52:05.531550 #14413] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:52:05.533689 #14413] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:52:05.535870 #14413] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:52:05.538025 #14413] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:52:05.540167 #14413] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:52:05.540231 #14413] DEBUG -- : Finished updating RT DVDs in 2.996559
+D, [2013-12-07T13:53:02.520340 #14595] DEBUG -- : Update RT DVDs started at 2013-12-07 13:53:02 -0500
+D, [2013-12-07T13:53:02.520441 #14595] DEBUG -- : 
+D, [2013-12-07T13:53:03.960652 #14595] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:53:03.964349 #14595] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:53:03.966972 #14595] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:53:03.969463 #14595] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:53:03.971843 #14595] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:53:03.974165 #14595] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:53:03.976369 #14595] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:53:03.978485 #14595] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:53:03.980578 #14595] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:53:03.985975 #14595] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:53:04.771225 #14595] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:53:04.773711 #14595] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:53:04.776223 #14595] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:53:04.778810 #14595] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:53:04.781198 #14595] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:53:04.783468 #14595] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:53:04.785808 #14595] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:53:04.788126 #14595] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:53:04.790579 #14595] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:53:04.792857 #14595] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:53:04.795202 #14595] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:53:04.797522 #14595] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:53:04.799809 #14595] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:53:04.802127 #14595] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:53:04.804369 #14595] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:53:04.806617 #14595] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:53:05.345932 #14595] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:53:05.348923 #14595] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:53:05.351672 #14595] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:53:05.354306 #14595] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:53:05.356888 #14595] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:53:05.359936 #14595] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:53:05.409762 #14595] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:53:05.412022 #14595] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:53:05.418163 #14595] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:53:05.420270 #14595] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:53:05.422347 #14595] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:53:05.424421 #14595] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:53:05.426477 #14595] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:53:05.428625 #14595] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:53:06.259866 #14595] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:53:06.262767 #14595] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:53:06.265569 #14595] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:53:06.267790 #14595] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:53:06.269858 #14595] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:53:06.271902 #14595] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:53:06.273943 #14595] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:53:06.276011 #14595] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:53:06.278058 #14595] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:53:06.281053 #14595] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:53:06.283822 #14595] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:53:06.286496 #14595] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:53:06.289134 #14595] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:53:06.291557 #14595] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:53:06.293708 #14595] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:53:06.295804 #14595] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:53:06.295866 #14595] DEBUG -- : Finished updating RT DVDs in 3.775571
+D, [2013-12-07T13:54:02.834584 #14778] DEBUG -- : Update RT DVDs started at 2013-12-07 13:54:02 -0500
+D, [2013-12-07T13:54:02.834670 #14778] DEBUG -- : 
+D, [2013-12-07T13:54:04.281572 #14778] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:54:04.284811 #14778] DEBUG -- : Created/Updated Monsters University
+D, [2013-12-07T13:54:04.287234 #14778] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:54:04.289463 #14778] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:54:04.291751 #14778] DEBUG -- : Created/Updated Grown Ups 2
+D, [2013-12-07T13:54:04.294006 #14778] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:54:04.296260 #14778] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:54:04.298471 #14778] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:54:04.300671 #14778] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:54:04.302898 #14778] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:54:05.393278 #14778] DEBUG -- : Created/Updated The Croods
+D, [2013-12-07T13:54:05.395616 #14778] DEBUG -- : Created/Updated This Is the End
+D, [2013-12-07T13:54:05.397841 #14778] DEBUG -- : Created/Updated The Frozen Ground
+D, [2013-12-07T13:54:05.399977 #14778] DEBUG -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+D, [2013-12-07T13:54:05.403156 #14778] DEBUG -- : Created/Updated After Earth
+D, [2013-12-07T13:54:05.405381 #14778] DEBUG -- : Created/Updated The Purge
+D, [2013-12-07T13:54:05.407489 #14778] DEBUG -- : Created/Updated Much Ado About Nothing
+D, [2013-12-07T13:54:05.410371 #14778] DEBUG -- : Created/Updated Europa Report
+D, [2013-12-07T13:54:05.415006 #14778] DEBUG -- : Created/Updated Stuck in Love
+D, [2013-12-07T13:54:05.417450 #14778] DEBUG -- : Created/Updated The Heat
+D, [2013-12-07T13:54:05.419739 #14778] DEBUG -- : Created/Updated Pacific Rim
+D, [2013-12-07T13:54:05.421849 #14778] DEBUG -- : Created/Updated Kevin Hart: Let Me Explain
+D, [2013-12-07T13:54:05.424070 #14778] DEBUG -- : Created/Updated A Hijacking
+D, [2013-12-07T13:54:05.440503 #14778] DEBUG -- : Created/Updated Maniac
+D, [2013-12-07T13:54:05.444040 #14778] DEBUG -- : Created/Updated The Conjuring
+D, [2013-12-07T13:54:05.446651 #14778] DEBUG -- : Created/Updated The Internship
+D, [2013-12-07T13:54:06.297166 #14778] DEBUG -- : Created/Updated The Wolverine
+D, [2013-12-07T13:54:06.299869 #14778] DEBUG -- : Created/Updated The Smurfs 2
+D, [2013-12-07T13:54:06.302610 #14778] DEBUG -- : Created/Updated The Mortal Instruments: City of Bones
+D, [2013-12-07T13:54:06.305280 #14778] DEBUG -- : Created/Updated Drinking Buddies
+D, [2013-12-07T13:54:06.307796 #14778] DEBUG -- : Created/Updated All the Boys Love Mandy Lane
+D, [2013-12-07T13:54:06.310397 #14778] DEBUG -- : Created/Updated The Act Of Killing
+D, [2013-12-07T13:54:06.359781 #14778] DEBUG -- : Created/Updated Jobs
+D, [2013-12-07T13:54:06.362112 #14778] DEBUG -- : Created/Updated Getaway
+D, [2013-12-07T13:54:06.368102 #14778] DEBUG -- : Created/Updated 2 Guns
+D, [2013-12-07T13:54:06.370196 #14778] DEBUG -- : Created/Updated The World's End
+D, [2013-12-07T13:54:06.372273 #14778] DEBUG -- : Created/Updated Planes
+D, [2013-12-07T13:54:06.374351 #14778] DEBUG -- : Created/Updated Paranoia
+D, [2013-12-07T13:54:06.376406 #14778] DEBUG -- : Created/Updated The To Do List
+D, [2013-12-07T13:54:06.378566 #14778] DEBUG -- : Created/Updated Man of Steel
+D, [2013-12-07T13:54:06.844165 #14778] DEBUG -- : Created/Updated The Angels' Share
+D, [2013-12-07T13:54:06.846399 #14778] DEBUG -- : Created/Updated Jayne Mansfield's Car
+D, [2013-12-07T13:54:06.848787 #14778] DEBUG -- : Created/Updated Some Girl(s)
+D, [2013-12-07T13:54:06.851121 #14778] DEBUG -- : Created/Updated Sample This
+D, [2013-12-07T13:54:06.853197 #14778] DEBUG -- : Created/Updated Mickey Virus
+D, [2013-12-07T13:54:06.855284 #14778] DEBUG -- : Created/Updated Twenty8k
+D, [2013-12-07T13:54:06.857336 #14778] DEBUG -- : Created/Updated 7E
+D, [2013-12-07T13:54:06.860104 #14778] DEBUG -- : Created/Updated Despicable Me 2
+D, [2013-12-07T13:54:06.862309 #14778] DEBUG -- : Created/Updated Battle of the Year
+D, [2013-12-07T13:54:06.864360 #14778] DEBUG -- : Created/Updated The Hunt
+D, [2013-12-07T13:54:06.866393 #14778] DEBUG -- : Created/Updated Man of Tai Chi
+D, [2013-12-07T13:54:06.868528 #14778] DEBUG -- : Created/Updated Sightseers
+D, [2013-12-07T13:54:06.870733 #14778] DEBUG -- : Created/Updated Our Children
+D, [2013-12-07T13:54:06.872837 #14778] DEBUG -- : Created/Updated Berberian Sound Studio
+D, [2013-12-07T13:54:06.874911 #14778] DEBUG -- : Created/Updated Museum Hours
+D, [2013-12-07T13:54:06.877798 #14778] DEBUG -- : Created/Updated Touchy Feely
+D, [2013-12-07T13:54:06.877868 #14778] DEBUG -- : Finished updating RT DVDs in 4.043319

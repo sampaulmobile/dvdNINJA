@@ -17,6 +17,7 @@
       <th>Actor Count</th>
       <th>Torrent Count</th>
       <th>RT</th>
+      <th>Torrents</th>
       <th></th>
     </tr>
   </thead>
@@ -35,6 +36,7 @@
         <td><%= movie.actors.count %></td>
         <td><%= movie.torrents.count %></td>
         <td><%= movie.critics_score %>% / <%= movie.users_score %>%</td>
+        <td><%= movie.rt_torrents %></td>
 
         <td><%= link_to 'Show', movie %></td>
       </tr>

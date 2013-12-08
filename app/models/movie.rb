@@ -233,6 +233,14 @@ class Movie < ActiveRecord::Base
     titles[0..2].map {|t| t.text}
   end
 
+  def self.torrent_rt_dvds
+    Movie.where(rt_torrented: false).where("rt_id != -1").order('critics_score DESC').limit(5).each do |m|
+        torrent_files = queue_magnets(m['title'])
+        m.update_column(:rt_torrented, true)
+        m.update_column(:rt_torrents, torrent_files.to_s)
+    end
+  end
+
   def self.search_pb(title)
     clip = URI.escape(title)
     url = "http://thepiratebay.sx/search/#{clip}/0/7/200"
