@@ -17,16 +17,16 @@ class Movie < ActiveRecord::Base
 
   def self.load_movies(url = "http://www.hometheaterinfo.com/download/new_csv.zip",
                        fname = "new_csv.txt")
-    @log_file = Logger.new('import_log.txt')
+    @log_file = Logger.new('DVD_log.txt')
 
     start = Time.now
-    @log_file.debug "LOAD MOVIES started at #{start}"
+    @log_file.info "LOAD MOVIES started at #{start}"
 
     self.download_csv(url, fname)
-    @log_file.debug "Downloaded movie file in #{Time.now - start}"
+    @log_file.info "Downloaded movie file in #{Time.now - start}"
 
     self.parse_file(fname)
-    @log_file.debug "Finished LOADING MOVIES in #{Time.now - start}"
+    @log_file.info "Finished LOADING MOVIES in #{Time.now - start}"
 
     delete(fname)
     delete("new_csv.zip")
@@ -64,7 +64,7 @@ class Movie < ActiveRecord::Base
 
       m = Movie.new(entry)
       if m.save
-        @log_file.debug "Parsed #{m.title}"
+        @log_file.info "Parsed #{m.title}"
 
         m.get_rt_info
         m.get_torrents
@@ -74,7 +74,7 @@ class Movie < ActiveRecord::Base
         if m['critics_score'] != -1 then rt_txt += " (w/ critic score)" end
 
         log_entry = "Added #{m.title} with #{rt_txt} and #{m.torrents.count} torrents."
-        @log_file.debug log_entry 
+        @log_file.info log_entry 
       end
     end
 
@@ -129,10 +129,10 @@ class Movie < ActiveRecord::Base
                          pic_url: a_div.css('img')[0]["src"])
 
           if !aa.save then next end
-          #@log_file.debug "Added actor #{first} #{last}"
+          #@log_file.info "Added actor #{first} #{last}"
 
           if Casting.create(actor_id: aa.id, movie_id: self.id)
-            #@log_file.debug "Added actor #{first} #{last} to #{self.title}"
+            #@log_file.info "Added actor #{first} #{last} to #{self.title}"
           end
         end
       end
@@ -173,11 +173,11 @@ class Movie < ActiveRecord::Base
   end
 
   def self.update_rt_dvds
-    @log_file ||= Logger.new('import_log.txt')
+    @log_file ||= Logger.new('DVD_log.txt')
 
     start = Time.now
-    @log_file.debug "Update RT DVDs started at #{start}"
-    @log_file.debug ""
+    @log_file.info "Update RT DVDs started at #{start}"
+    @log_file.info ""
 
     root_url = "http://api.rottentomatoes.com/api/public/v1.0"
     api_key = "ydk8dpdpnubmb33ynvjywqyk"
@@ -202,19 +202,19 @@ class Movie < ActiveRecord::Base
         m['cover_pic_url'] = posters['profile']
 
         if m.save
-          @log_file.debug "Created/Updated #{m['title']}"
+          @log_file.info "Created/Updated #{m['title']}"
           puts "Created/Updated #{m['title']}"
         end
       end
     end
 
-    @log_file.debug "Finished updating RT DVDs in #{Time.now - start}"
+    @log_file.info "Finished updating RT DVDs in #{Time.now - start}"
   end
 
   def self.queue_magnets(title)
     #clip = title.gsub(/\s+/,'%20').gsub(/\*/,'').gsub(/@/,'')
     clip = URI.escape(title)
-    url = "http://thepiratebay.sx/search/#{clip}/0/7/200"
+    url = "http://thepiratebay.pe/search/#{clip}/0/7/200"
 
     begin
       page = Nokogiri::HTML(open(url))
@@ -234,11 +234,20 @@ class Movie < ActiveRecord::Base
   end
 
   def self.torrent_rt_dvds
+    @log_file ||= Logger.new('DVD_log.txt')
+
+    start = Time.now
+    @log_file.info "Torrenting DVDs started at #{start}"
+    @log_file.info ""
+
     Movie.where(rt_torrented: false).where("rt_id != -1").order('critics_score DESC').limit(5).each do |m|
         torrent_files = queue_magnets(m['title'])
         m.update_column(:rt_torrented, true)
         m.update_column(:rt_torrents, torrent_files.to_s)
+        @log_file.info "Added #{torrent_files.to_s} for #{m['title']}"
     end
+    
+    @log_file.info "Finished adding DVD torrents in #{Time.now - start}"
   end
 
   def self.search_pb(title)

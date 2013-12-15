@@ -1,0 +1,206 @@
+I, [2013-12-07T21:04:46.071568 #25490]  INFO -- : Update RT DVDs started at 2013-12-07 21:04:46 -0500
+I, [2013-12-07T21:04:46.071677 #25490]  INFO -- : 
+I, [2013-12-07T21:04:49.403266 #25490]  INFO -- : Created/Updated Man of Steel
+I, [2013-12-07T21:04:49.406796 #25490]  INFO -- : Created/Updated Monsters University
+I, [2013-12-07T21:04:49.409045 #25490]  INFO -- : Created/Updated The Wolverine
+I, [2013-12-07T21:04:49.410915 #25490]  INFO -- : Created/Updated The Croods
+I, [2013-12-07T21:04:49.413131 #25490]  INFO -- : Created/Updated Grown Ups 2
+I, [2013-12-07T21:04:49.415535 #25490]  INFO -- : Created/Updated This Is the End
+I, [2013-12-07T21:04:49.417637 #25490]  INFO -- : Created/Updated The Heat
+I, [2013-12-07T21:04:49.419653 #25490]  INFO -- : Created/Updated Pacific Rim
+I, [2013-12-07T21:04:49.421644 #25490]  INFO -- : Created/Updated The Conjuring
+I, [2013-12-07T21:04:49.423636 #25490]  INFO -- : Created/Updated After Earth
+I, [2013-12-07T21:04:50.407820 #25490]  INFO -- : Created/Updated The Croods
+I, [2013-12-07T21:04:50.409964 #25490]  INFO -- : Created/Updated This Is the End
+I, [2013-12-07T21:04:50.411989 #25490]  INFO -- : Created/Updated The Frozen Ground
+I, [2013-12-07T21:04:50.414267 #25490]  INFO -- : Created/Updated We Steal Secrets: The Story Of Wikileaks
+I, [2013-12-07T21:04:50.416293 #25490]  INFO -- : Created/Updated After Earth
+I, [2013-12-07T21:04:50.418294 #25490]  INFO -- : Created/Updated The Purge
+I, [2013-12-07T21:04:50.420235 #25490]  INFO -- : Created/Updated Much Ado About Nothing
+I, [2013-12-07T21:04:50.421986 #25490]  INFO -- : Created/Updated Europa Report
+I, [2013-12-07T21:04:50.423778 #25490]  INFO -- : Created/Updated Stuck in Love
+I, [2013-12-07T21:04:50.425617 #25490]  INFO -- : Created/Updated The Heat
+I, [2013-12-07T21:04:50.427622 #25490]  INFO -- : Created/Updated Pacific Rim
+I, [2013-12-07T21:04:50.429535 #25490]  INFO -- : Created/Updated Kevin Hart: Let Me Explain
+I, [2013-12-07T21:04:50.431336 #25490]  INFO -- : Created/Updated A Hijacking
+I, [2013-12-07T21:04:50.433143 #25490]  INFO -- : Created/Updated Maniac
+I, [2013-12-07T21:04:50.434978 #25490]  INFO -- : Created/Updated The Conjuring
+I, [2013-12-07T21:04:50.467479 #25490]  INFO -- : Created/Updated The Internship
+I, [2013-12-07T21:04:50.988323 #25490]  INFO -- : Created/Updated The Wolverine
+I, [2013-12-07T21:04:50.991358 #25490]  INFO -- : Created/Updated The Smurfs 2
+I, [2013-12-07T21:04:50.994814 #25490]  INFO -- : Created/Updated The Mortal Instruments: City of Bones
+I, [2013-12-07T21:04:50.997589 #25490]  INFO -- : Created/Updated Drinking Buddies
+I, [2013-12-07T21:04:51.000060 #25490]  INFO -- : Created/Updated All the Boys Love Mandy Lane
+I, [2013-12-07T21:04:51.002399 #25490]  INFO -- : Created/Updated The Act Of Killing
+I, [2013-12-07T21:04:51.004850 #25490]  INFO -- : Created/Updated Red 2
+I, [2013-12-07T21:04:51.007394 #25490]  INFO -- : Created/Updated Jobs
+I, [2013-12-07T21:04:51.009905 #25490]  INFO -- : Created/Updated Getaway
+I, [2013-12-07T21:04:51.012255 #25490]  INFO -- : Created/Updated Red Obsession
+I, [2013-12-07T21:04:51.014162 #25490]  INFO -- : Created/Updated 2 Guns
+I, [2013-12-07T21:04:51.016541 #25490]  INFO -- : Created/Updated The World's End
+I, [2013-12-07T21:04:51.019042 #25490]  INFO -- : Created/Updated Planes
+I, [2013-12-07T21:04:51.021354 #25490]  INFO -- : Created/Updated Paranoia
+I, [2013-12-07T21:04:51.023963 #25490]  INFO -- : Created/Updated The To Do List
+I, [2013-12-07T21:04:51.027729 #25490]  INFO -- : Created/Updated Man of Steel
+I, [2013-12-07T21:04:51.459544 #25490]  INFO -- : Created/Updated The Angels' Share
+I, [2013-12-07T21:04:51.461715 #25490]  INFO -- : Created/Updated Jayne Mansfield's Car
+I, [2013-12-07T21:04:51.464054 #25490]  INFO -- : Created/Updated Some Girl(s)
+I, [2013-12-07T21:04:51.465982 #25490]  INFO -- : Created/Updated Sample This
+I, [2013-12-07T21:04:51.467855 #25490]  INFO -- : Created/Updated Mickey Virus
+I, [2013-12-07T21:04:51.469728 #25490]  INFO -- : Created/Updated Twenty8k
+I, [2013-12-07T21:04:51.471574 #25490]  INFO -- : Created/Updated 7E
+I, [2013-12-07T21:04:51.473380 #25490]  INFO -- : Created/Updated Despicable Me 2
+I, [2013-12-07T21:04:51.475203 #25490]  INFO -- : Created/Updated Battle of the Year
+I, [2013-12-07T21:04:51.477001 #25490]  INFO -- : Created/Updated The Hunt
+I, [2013-12-07T21:04:51.478847 #25490]  INFO -- : Created/Updated Man of Tai Chi
+I, [2013-12-07T21:04:51.481446 #25490]  INFO -- : Created/Updated Sightseers
+I, [2013-12-07T21:04:51.483548 #25490]  INFO -- : Created/Updated Our Children
+I, [2013-12-07T21:04:51.485593 #25490]  INFO -- : Created/Updated Berberian Sound Studio
+I, [2013-12-07T21:04:51.487532 #25490]  INFO -- : Created/Updated Museum Hours
+I, [2013-12-07T21:04:51.489289 #25490]  INFO -- : Created/Updated Touchy Feely
+I, [2013-12-07T21:04:51.489356 #25490]  INFO -- : Finished updating RT DVDs in 5.417828
+I, [2013-12-07T21:04:57.098903 #25490]  INFO -- : Torrenting DVDs started at 2013-12-07 21:04:57 -0500
+I, [2013-12-07T21:04:57.098989 #25490]  INFO -- : 
+I, [2013-12-07T21:04:58.050746 #25490]  INFO -- : Added ["Sample.This.2012.720p.WEB-DL.H264-fiend", "This Is The End 2013 Movies 720p BluRay X264 New Source +Sample ", "Sample.This.2012.720p.WEB-DL.H264-fiend [PublicHD]"] for Sample This
+I, [2013-12-07T21:04:58.659473 #25490]  INFO -- : Added ["Our.Children.2012.720p.BluRay.x264-SPLiTSViLLE [PublicHD]", "A Perdre la Raison aka Our Children 2012 DVDRip Sonata Premiere", "A.Perdre.La.Raison.AKA.Our.Children.(Joachim.Lafosse.2012).DVDRi"] for Our Children
+I, [2013-12-07T21:04:59.415072 #25490]  INFO -- : Added ["Museum Hours 2012 WEB-DL XviD-KG", "Museum Hours[720p]983.72MB", "Museum.Hours.2012.WEB-DL.XviD-KG"] for Museum Hours
+I, [2013-12-07T21:05:00.147084 #25490]  INFO -- : Added ["The World's End (2013) 720p BrRip x264 - YIFY", "The World's End (2013) 1080p BrRip x264 - YIFY", "The World's End 2013 READNFO WEBRiP XViD UNiQUE"] for The World's End
+I, [2013-12-07T21:05:00.988480 #25490]  INFO -- : Added ["The Angels Share 2012 BRRip XVID AbSurdiTy", "The.Angels.Share.2012.1080p.BluRay.x264.anoXmous", "The.Angels.Share.2012.720p.BluRay.x264-TRiPS [PublicHD]"] for The Angels' Share
+I, [2013-12-07T21:05:00.988675 #25490]  INFO -- : Finished adding DVD torrents in 3.889795
+I, [2013-12-07T21:11:06.993857 #25490]  INFO -- : Torrenting DVDs started at 2013-12-07 21:11:06 -0500
+I, [2013-12-07T21:11:06.993976 #25490]  INFO -- : 
+I, [2013-12-07T21:11:07.627030 #25490]  INFO -- : Added ["The Conjuring (2013) 1080p BrRip x264 - YIFY", "The.Conjuring.2013.R6.WEBRiP.Xvid Acesn8s ", "The Conjuring (2013) 720p BrRip x264 - YIFY"] for The Conjuring
+I, [2013-12-07T21:11:08.458449 #25490]  INFO -- : Added ["Sightseers 2012 LIMITED BDRip XviD-GECKOS", "Sightseers 2012 LIMITED BDRip XviD-GECKOS", "Sightseers.2012.LIMITED.720p.BluRay.x264-GECKOS [PublicHD]"] for Sightseers
+I, [2013-12-07T21:11:09.280803 #25490]  INFO -- : Added ["Much Ado About Nothing (2012) 720p BrRip x264 - YIFY", "Much Ado About Nothing (2012) 1080p BrRip x264 - YIFY", "Much.Ado.About.Nothing.2012.DVDRiP.XViD-SML"] for Much Ado About Nothing
+I, [2013-12-07T21:11:09.917820 #25490]  INFO -- : Added ["This Is the End (2013) 720p BrRip x264 - YIFY", "This Is the End (2013) 1080p BrRip x264 - YIFY", "This is the End 2013 BRRip XViD juggs"] for This Is the End
+I, [2013-12-07T21:11:10.755914 #25490]  INFO -- : Added ["Berberian.Sound.Studio.2012.BDRip.XviD-HS", "Berberian.Sound.Studio.2012.720p.BluRay.DTS.x264-PublicHD", "Berberian.Sound.Studio.2012.SweSub.DVDRip.AC3.x264-SWAXXON"] for Berberian Sound Studio
+I, [2013-12-07T21:11:10.756150 #25490]  INFO -- : Finished adding DVD torrents in 3.762326
+I, [2013-12-07T21:13:48.455729 #25490]  INFO -- : Torrenting DVDs started at 2013-12-07 21:13:48 -0500
+I, [2013-12-07T21:13:48.455831 #25490]  INFO -- : 
+I, [2013-12-07T21:13:49.100487 #25490]  INFO -- : Added ["Drinking Buddies (2013) 720p BrRip x264 - YIFY", "Drinking Buddies (2013) 1080p BrRip x264 - YIFY", "Drinking.Buddies.2013.WEBRip XViD juggs"] for Drinking Buddies
+I, [2013-12-07T21:13:49.978244 #25490]  INFO -- : Added ["Europa Report (2013) 720p BrRip x264 - YIFY", "Europa Report (2013) 1080p BrRip x264 - YIFY", "Europa Report 2013 WEBRip XViD juggs "] for Europa Report
+I, [2013-12-07T21:13:50.727250 #25490]  INFO -- : Added ["Monsters University (2013) 720p BrRip x264 - YIFY", "Monsters University (2013) 1080p BrRip x264 - YIFY", "Monsters University 2013 HDTS XviD-Feel-Free"] for Monsters University
+I, [2013-12-07T21:13:55.456727 #25490]  INFO -- : Added ["Despicable Me 2 (2013) 1080p BrRip x264 - YIFY", "Despicable.Me.2.2013.DVDRip.XviD-iNViNCiBLE", "Despicable Me 2 (2013) 720p BrRip x264 - YIFY"] for Despicable Me 2
+I, [2013-12-07T21:13:56.336535 #25490]  INFO -- : Added ["Pacific Rim (2013) 1080p BrRip x264 - YIFY", "Pacific Rim (2013) 720p BrRip x264 - YIFY", "Pacific Rim 2013 HDRip X264-PLAYNOW"] for Pacific Rim
+I, [2013-12-07T21:13:56.336742 #25490]  INFO -- : Finished adding DVD torrents in 7.881037
+I, [2013-12-07T21:25:09.674793 #25490]  INFO -- : Torrenting DVDs started at 2013-12-07 21:25:09 -0500
+I, [2013-12-07T21:25:09.674908 #25490]  INFO -- : 
+I, [2013-12-07T21:25:10.603047 #25490]  INFO -- : Added ["Man.Of.Tai.Chi.2013.720p.BluRay.DTS.x264-PublicHD", "Man of Tai Chi 2013 720p Webrip x264 AC3-FooKaS", "Man of Tai Chi [2013]BRRip XViD-ETRG"] for Man of Tai Chi
+I, [2013-12-07T21:25:11.458086 #25490]  INFO -- : Added ["The Croods (2013) 720p BrRip x264 - YIFY", "The Croods (2013) 1080p BrRip x264 - YIFY", "The Croods 2013 HDRiP XViD-UNiQUE"] for The Croods
+I, [2013-12-07T21:25:12.317123 #25490]  INFO -- : Added ["The Wolverine (2013) EXTENDED 1080p BrRip x264 - YIFY", "The Wolverine (2013) EXTENDED 720p BrRip x264 - YIFY", "The Wolverine 2013 DVDRip x264 AC3-EVO"] for The Wolverine
+I, [2013-12-07T21:25:13.239579 #25490]  INFO -- : Added ["The Heat (2013) 720p BrRip x264 - YIFY", "The Heat (2013) UNRATED 1080p BrRip x264 - YIFY", "The Heat 2013 SDTV XViD SAF"] for The Heat
+I, [2013-12-07T21:25:14.155688 #25490]  INFO -- : Added ["2 Guns (2013) 720p BrRip x264 - YIFY", "2 Guns (2013) 1080p BrRip x264 - YIFY", "2 Guns (2013) DVDRip XviD-MAX"] for 2 Guns
+I, [2013-12-07T21:25:14.155866 #25490]  INFO -- : Finished adding DVD torrents in 4.481126
+I, [2013-12-07T21:57:42.995836 #25490]  INFO -- : Torrenting DVDs started at 2013-12-07 21:57:42 -0500
+I, [2013-12-07T21:57:42.995916 #25490]  INFO -- : 
+I, [2013-12-07T21:57:44.192443 #25490]  INFO -- : Added ["Kevin Hart Let Me Explain [2013]BRRip XViD -ETRG", "Kevin Hart Let Me Explain 2013 CAM x264-HiGH ", "Kevin Hart Let Me Explain (2013) 720p.BRrip.Sujaidr (pimprg)"] for Kevin Hart: Let Me Explain
+I, [2013-12-07T21:57:45.440747 #25490]  INFO -- : Added ["Stuck.In.Love.2012.BRRip XViD juggs", "Stuck in Love (2012) 720p BrRip x264 - YIFY", "Stuck in Love (2012) 1080p BrRip x264 - YIFY"] for Stuck in Love
+I, [2013-12-07T21:57:46.782238 #25490]  INFO -- : Added ["The Frozen Ground 2013 WEBRip XViD juggs", "The Frozen Ground (2013) 720p BrRip x264 - YIFY", "The Frozen Ground (2013) 1080p BrRip x264 - YIFY"] for The Frozen Ground
+I, [2013-12-07T21:57:47.882831 #25490]  INFO -- : Added ["Man of Steel (2013) 1080p BrRip x264 - YIFY", "Man of Steel (2013) 720p BrRip x264 - YIFY", "Superman.Man.of.Steel.2013.720p.R6.LiNE.x264.AAC-DiGiTAL"] for Man of Steel
+I, [2013-12-07T21:57:49.050486 #25490]  INFO -- : Added ["The To Do List (2013) 720p BrRip x264 - YIFY", "The To Do List (2013) 1080p BrRip x264 - YIFY", "The To Do List [2013] BRRip XViD-ETRG"] for The To Do List
+I, [2013-12-07T21:57:49.050727 #25490]  INFO -- : Finished adding DVD torrents in 6.054914
+I, [2013-12-08T00:16:58.759842 #25490]  INFO -- : Torrenting DVDs started at 2013-12-08 00:16:58 -0500
+I, [2013-12-08T00:16:58.759924 #25490]  INFO -- : 
+I, [2013-12-08T00:17:00.354078 #25490]  INFO -- : Added ["Some Girl (1998)", "Some girl_1998_SwesubDVDrip_hightopper"] for Some Girl(s)
+I, [2013-12-08T00:17:02.087932 #25490]  INFO -- : Added ["Maniac.2012.BRRip XViD juggs", "Maniac (2012) 1080p BrRip x264 - YIFY", "Maniac (2012) 720p BrRip x264 - YIFY"] for Maniac
+I, [2013-12-08T00:17:02.942483 #25490]  INFO -- : Added ["All the Boys Love Mandy Lane (2006) BRRip Xvid AC3-Anarchy", "All the Boys Love Mandy Lane (2006) 1080p x264 DD5.1 EN NL Subs ", "All the Boys Love Mandy Lane (2006) 720p BRrip_sujaidr_TMRG"] for All the Boys Love Mandy Lane
+I, [2013-12-08T00:17:04.041278 #25490]  INFO -- : Added ["Red 2 (2013) 720p BrRip x264 - YIFY", "RED 2 2013 DVDRip XviD-BiDA", "Red 2 2013 FRENCH BDRip XviD-RELiC"] for Red 2
+I, [2013-12-08T00:17:05.133205 #25490]  INFO -- : Added ["The Purge (2013) 1080p BrRip x264 - YIFY", "The Purge (2013) 720p BrRip x264 - YIFY", "The.Purge.2013.WEBRip XViD juggs"] for The Purge
+I, [2013-12-08T00:17:05.133414 #25490]  INFO -- : Finished adding DVD torrents in 6.373641
+I, [2013-12-08T03:17:40.696950 #32193]  INFO -- : Torrenting DVDs started at 2013-12-08 03:17:40 -0500
+I, [2013-12-08T03:17:40.697079 #32193]  INFO -- : 
+I, [2013-12-08T03:17:41.985647 #32193]  INFO -- : Added ["The Internship (2013) UNRATED 720p BrRip x264 - YIFY", "The Internship [2013] HDRip XViD-ETRG", "The Internship (2013) UNRATED 1080p BrRip x264 - YIFY"] for The Internship
+I, [2013-12-08T03:17:42.688996 #32193]  INFO -- : Added ["Touchy Feely (2013) 720p BrRip x264 - YIFY", "Touchy Feely (2013) 1080p BrRip x264 - YIFY", "Touchy.Feely.2013.WEBRip XViD juggs"] for Touchy Feely
+I, [2013-12-08T03:17:43.188378 #32193]  INFO -- : Added [] for Jayne Mansfield's Car
+I, [2013-12-08T03:17:43.839001 #32193]  INFO -- : Added ["Planes [2013] BRRip XViD-ETRG", "Planes.2013.720p.BluRay.x264-SPARKS [PublicHD]", "Planes.2013.720p.BRRip.x264-Fastbet99"] for Planes
+I, [2013-12-08T03:17:44.651433 #32193]  INFO -- : Added ["JOBS (2013) 720p BrRip x264 - YIFY", "Jobs 2013 HDRip x264 AC3-JYK", "Jobs.2013.1080p.BluRay.x264.anoXmous"] for Jobs
+I, [2013-12-08T03:17:44.651676 #32193]  INFO -- : Finished adding DVD torrents in 3.954797
+I, [2013-12-13T22:50:45.084353 #25490]  INFO -- : Update RT DVDs started at 2013-12-13 22:50:45 -0500
+I, [2013-12-13T22:50:45.101177 #25490]  INFO -- : 
+I, [2013-12-13T22:55:19.083985 #53019]  INFO -- : Update RT DVDs started at 2013-12-13 22:55:19 -0500
+I, [2013-12-13T22:55:19.096447 #53019]  INFO -- : 
+I, [2013-12-15T11:33:05.829769 #53019]  INFO -- : Update RT DVDs started at 2013-12-15 11:33:05 -0500
+I, [2013-12-15T11:33:05.903375 #53019]  INFO -- : 
+I, [2013-12-15T11:33:11.448151 #53019]  INFO -- : Created/Updated Man of Steel
+I, [2013-12-15T11:33:11.614160 #53019]  INFO -- : Created/Updated Fast & Furious 6
+I, [2013-12-15T11:33:11.621622 #53019]  INFO -- : Created/Updated Monsters University
+I, [2013-12-15T11:33:11.625303 #53019]  INFO -- : Created/Updated Despicable Me 2
+I, [2013-12-15T11:33:11.654461 #53019]  INFO -- : Created/Updated The Wolverine
+I, [2013-12-15T11:33:11.678137 #53019]  INFO -- : Created/Updated Grown Ups 2
+I, [2013-12-15T11:33:11.697822 #53019]  INFO -- : Created/Updated The Heat
+I, [2013-12-15T11:33:11.700640 #53019]  INFO -- : Created/Updated Pacific Rim
+I, [2013-12-15T11:33:11.737387 #53019]  INFO -- : Created/Updated Elysium
+I, [2013-12-15T11:33:11.749144 #53019]  INFO -- : Created/Updated The Lone Ranger
+I, [2013-12-15T11:33:11.855440 #53019]  INFO -- : Created/Updated The Heat
+I, [2013-12-15T11:33:11.859924 #53019]  INFO -- : Created/Updated Pacific Rim
+I, [2013-12-15T11:33:11.865324 #53019]  INFO -- : Created/Updated Kevin Hart: Let Me Explain
+I, [2013-12-15T11:33:11.870244 #53019]  INFO -- : Created/Updated A Hijacking
+I, [2013-12-15T11:33:11.872925 #53019]  INFO -- : Created/Updated Maniac
+I, [2013-12-15T11:33:11.877051 #53019]  INFO -- : Created/Updated The Conjuring
+I, [2013-12-15T11:33:11.880287 #53019]  INFO -- : Created/Updated The Internship
+I, [2013-12-15T11:33:12.363944 #53019]  INFO -- : Created/Updated The Way Way Back
+I, [2013-12-15T11:33:12.392875 #53019]  INFO -- : Created/Updated Before Midnight
+I, [2013-12-15T11:33:12.427548 #53019]  INFO -- : Created/Updated Only God Forgives
+I, [2013-12-15T11:33:12.596536 #53019]  INFO -- : Created/Updated I Give It a Year
+I, [2013-12-15T11:33:12.600273 #53019]  INFO -- : Created/Updated Monsters University
+I, [2013-12-15T11:33:12.619315 #53019]  INFO -- : Created/Updated R.I.P.D.
+I, [2013-12-15T11:33:12.720904 #53019]  INFO -- : Created/Updated Byzantium
+I, [2013-12-15T11:33:12.846608 #53019]  INFO -- : Created/Updated Grown Ups 2
+I, [2013-12-15T11:33:12.947929 #53019]  INFO -- : Created/Updated White House Down
+I, [2013-12-15T11:33:13.098925 #53019]  INFO -- : Created/Updated Elysium
+I, [2013-12-15T11:33:13.103984 #53019]  INFO -- : Created/Updated The Lone Ranger
+I, [2013-12-15T11:33:13.113108 #53019]  INFO -- : Created/Updated Kick-Ass 2
+I, [2013-12-15T11:33:13.125498 #53019]  INFO -- : Created/Updated Percy Jackson: Sea of Monsters
+I, [2013-12-15T11:33:13.141939 #53019]  INFO -- : Created/Updated Prisoners
+I, [2013-12-15T11:33:13.169765 #53019]  INFO -- : Created/Updated The Family
+I, [2013-12-15T11:33:13.179417 #53019]  INFO -- : Created/Updated One Direction: This Is Us
+I, [2013-12-15T11:33:13.181872 #53019]  INFO -- : Created/Updated Fast & Furious 6
+I, [2013-12-15T11:33:13.183992 #53019]  INFO -- : Created/Updated Despicable Me 2
+I, [2013-12-15T11:33:13.194587 #53019]  INFO -- : Created/Updated Battle of the Year
+I, [2013-12-15T11:33:13.197757 #53019]  INFO -- : Created/Updated The Wolverine
+I, [2013-12-15T11:33:13.200697 #53019]  INFO -- : Created/Updated The Smurfs 2
+I, [2013-12-15T11:33:13.247803 #53019]  INFO -- : Created/Updated The Mortal Instruments: City of Bones
+I, [2013-12-15T11:33:13.252704 #53019]  INFO -- : Created/Updated Drinking Buddies
+I, [2013-12-15T11:33:13.262348 #53019]  INFO -- : Created/Updated All the Boys Love Mandy Lane
+I, [2013-12-15T11:33:13.264826 #53019]  INFO -- : Created/Updated The Act Of Killing
+I, [2013-12-15T11:33:13.385280 #53019]  INFO -- : Created/Updated Devil's Pass
+I, [2013-12-15T11:33:13.393809 #53019]  INFO -- : Created/Updated Alien Uprising
+I, [2013-12-15T11:33:13.402045 #53019]  INFO -- : Created/Updated Mission Park
+I, [2013-12-15T11:33:13.410593 #53019]  INFO -- : Created/Updated Newlyweeds
+I, [2013-12-15T11:33:13.450158 #53019]  INFO -- : Created/Updated Repo
+I, [2013-12-15T11:33:13.485446 #53019]  INFO -- : Created/Updated The Secret Village
+I, [2013-12-15T11:33:13.494437 #53019]  INFO -- : Created/Updated Hank: Five Years From the Brink
+I, [2013-12-15T11:33:13.502199 #53019]  INFO -- : Created/Updated Havana 57
+I, [2013-12-15T11:33:13.552590 #53019]  INFO -- : Created/Updated Barracuda
+I, [2013-12-15T11:33:13.568106 #53019]  INFO -- : Created/Updated Edge Of Salvation
+I, [2013-12-15T11:33:13.572385 #53019]  INFO -- : Created/Updated Elysium
+I, [2013-12-15T11:33:13.575461 #53019]  INFO -- : Created/Updated The Lone Ranger
+I, [2013-12-15T11:33:13.578162 #53019]  INFO -- : Created/Updated Kick-Ass 2
+I, [2013-12-15T11:33:13.580851 #53019]  INFO -- : Created/Updated Percy Jackson: Sea of Monsters
+I, [2013-12-15T11:33:13.584700 #53019]  INFO -- : Created/Updated Prisoners
+I, [2013-12-15T11:33:13.587269 #53019]  INFO -- : Created/Updated The Family
+I, [2013-12-15T11:33:13.587341 #53019]  INFO -- : Finished updating RT DVDs in 7.818077
+I, [2013-12-15T11:35:14.789338 #53019]  INFO -- : Torrenting DVDs started at 2013-12-15 11:35:14 -0500
+I, [2013-12-15T11:35:14.789423 #53019]  INFO -- : 
+I, [2013-12-15T11:35:14.936083 #53019]  INFO -- : Added [] for Before Midnight
+I, [2013-12-15T11:35:14.980896 #53019]  INFO -- : Added [] for The Way Way Back
+I, [2013-12-15T11:35:15.024439 #53019]  INFO -- : Added [] for Prisoners
+I, [2013-12-15T11:35:15.070113 #53019]  INFO -- : Added [] for Fast & Furious 6
+I, [2013-12-15T11:35:15.111819 #53019]  INFO -- : Added [] for Newlyweeds
+I, [2013-12-15T11:35:15.111932 #53019]  INFO -- : Finished adding DVD torrents in 0.322625
+I, [2013-12-15T12:09:44.138188 #53019]  INFO -- : Torrenting DVDs started at 2013-12-15 12:09:44 -0500
+I, [2013-12-15T12:09:44.138286 #53019]  INFO -- : 
+I, [2013-12-15T12:09:44.223543 #53019]  INFO -- : Added [] for Before Midnight
+I, [2013-12-15T12:09:44.298156 #53019]  INFO -- : Added [] for The Way Way Back
+I, [2013-12-15T12:09:44.342988 #53019]  INFO -- : Added [] for Prisoners
+I, [2013-12-15T12:09:44.385308 #53019]  INFO -- : Added [] for Fast & Furious 6
+I, [2013-12-15T12:09:44.422997 #53019]  INFO -- : Added [] for Newlyweeds
+I, [2013-12-15T12:09:44.423099 #53019]  INFO -- : Finished adding DVD torrents in 0.284945
+I, [2013-12-15T12:11:01.400616 #87110]  INFO -- : Torrenting DVDs started at 2013-12-15 12:11:01 -0500
+I, [2013-12-15T12:11:01.400709 #87110]  INFO -- : 
+I, [2013-12-15T12:11:02.307999 #87110]  INFO -- : Added ["Before Midnight (2013) 1080p BrRip x264 - YIFY", "Before Midnight (2013) 720p BrRip x264 - YIFY", "Before Midnight 2013 HDRiP XViD UNiQUE"] for Before Midnight
+I, [2013-12-15T12:11:03.067592 #87110]  INFO -- : Added ["The Way Way Back [2013] HDRip XViD -ETRG", "The Way Way Back (2013) 1080p BrRip x264 - YIFY", "The Way Way Back (2013) 720p BrRip x264 - YIFY"] for The Way Way Back
+I, [2013-12-15T12:11:03.769336 #87110]  INFO -- : Added ["Prisoners (2013) 720p BrRip x264 - YIFY", "Prisoners [2013] HDRip XviD -ETRG", "Prisoners (2013) 1080p BrRip x264 - YIFY"] for Prisoners
+I, [2013-12-15T12:11:04.587524 #87110]  INFO -- : Added ["Fast and Furious 6 (2013) 1080p EXTENDED BrRip x264 - YIFY", "Fast And Furious 6[2013]WEBRip XviD-ETRG", "Fast and Furious 6 (2013) EXTENDED 720p BrRip x264 - YIFY"] for Fast & Furious 6
+I, [2013-12-15T12:11:05.996769 #87110]  INFO -- : Added [] for Newlyweeds
+I, [2013-12-15T12:11:05.996917 #87110]  INFO -- : Finished adding DVD torrents in 4.596335

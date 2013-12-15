@@ -4,13 +4,15 @@
 # http://en.wikipedia.org/wiki/Cron
   
 
-set :output, "/Users/sampaul/Dropbox/Development/Rails/dvdNINJA/cron_log.log"
+set :output, "/Users/sampaul/Development/Rails/dvdNINJA/cron_log.log"
 
-every 4.hours do
+every 3.hours do
+    command 'rvm use 2.0.0@dvdNINJA'
     runner "Movie.torrent_rt_dvds", environment: "development"
 end
 
 every 12.hours do
+    command 'rvm use 2.0.0@dvdNINJA'
     runner "Movie.update_rt_dvds", environment: "development"
 end
 
