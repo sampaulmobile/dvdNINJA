@@ -13,6 +13,8 @@ class Movie < ActiveRecord::Base
 
   validates_uniqueness_of :title
 
+  PIRATE_HOST = "http://thepiratebay.se"
+
   @log_file = nil
 
   def self.load_movies(url = "http://www.hometheaterinfo.com/download/new_csv.zip",
@@ -148,7 +150,7 @@ class Movie < ActiveRecord::Base
     clip = title.gsub(/\*/,'').gsub(/@/,'')
     clip = URI.escape(clip)
 
-    url = "http://thepiratebay.sx/search/#{clip}/0/7/200"
+    url = "#{PIRATE_HOST}/search/#{clip}/0/7/200"
     begin
       page = Nokogiri::HTML(open(url))
     
@@ -212,9 +214,10 @@ class Movie < ActiveRecord::Base
   end
 
   def self.queue_magnets(title)
+    @log_file ||= Logger.new('DVD_log.txt')
     #clip = title.gsub(/\s+/,'%20').gsub(/\*/,'').gsub(/@/,'')
     clip = URI.escape(title)
-    url = "http://thepiratebay.pe/search/#{clip}/0/7/200"
+    url = "#{PIRATE_HOST}/search/#{clip}/0/7/200"
 
     begin
       page = Nokogiri::HTML(open(url))
@@ -223,8 +226,11 @@ class Movie < ActiveRecord::Base
       titles = links.css('div[class="detName"] a')
       magnets = links.css('a[title="Download this torrent using magnet"]')
         
-      magnets[0..2].each do |m|
-        Torrent.download(m['href'])
+      magnets[0..2].each_with_index do |m, i|
+        t = Torrent.create(title: titles[i].text, magnet_url: m['href'])
+        t.save!
+        t.download
+        @log_file.info "Created and started downloading #{titles[i].text}"
       end
     rescue
       return
@@ -242,9 +248,11 @@ class Movie < ActiveRecord::Base
 
     Movie.where(rt_torrented: false).where("rt_id != -1").order('critics_score DESC').limit(5).each do |m|
         torrent_files = queue_magnets(m['title'])
-        m.update_column(:rt_torrented, true)
-        m.update_column(:rt_torrents, torrent_files.to_s)
-        @log_file.info "Added #{torrent_files.to_s} for #{m['title']}"
+        if torrent_files && torrent_files.count > 0
+            m.update_column(:rt_torrented, true)
+            m.update_column(:rt_torrents, torrent_files.to_s)
+            @log_file.info "Added #{torrent_files.to_s} for #{m['title']}"
+        end
     end
     
     @log_file.info "Finished adding DVD torrents in #{Time.now - start}"
@@ -252,7 +260,7 @@ class Movie < ActiveRecord::Base
 
   def self.search_pb(title)
     clip = URI.escape(title)
-    url = "http://thepiratebay.sx/search/#{clip}/0/7/200"
+    url = "#{PIRATE_HOST}/search/#{clip}/0/7/200"
 
     torrents = []
     begin

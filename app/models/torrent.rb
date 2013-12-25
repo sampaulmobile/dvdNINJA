@@ -7,11 +7,14 @@ class Torrent < ActiveRecord::Base
             uniqueness: { scope: :movie }
 
   def self.download(url)
+    t = Torrent.create(magnet_url: url)
+    t.save!
+
     system("#{Rails.root.to_s}/scripts/queue_magnet.sh \"#{url}\"")
   end
 
   def download
-    Torrent.download(self.magnet_url)
+    system("#{Rails.root.to_s}/scripts/queue_magnet.sh \"#{self.magnet_url}\"")
   end
 
 
