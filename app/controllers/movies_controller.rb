@@ -28,6 +28,18 @@ class MoviesController < ApplicationController
     end
   end
 
+  def update_rt
+      Movie.update_rt_dvds
+      
+      redirect_to rt_url
+  end
+
+  def torrent_rt
+      Movie.torrent_rt_dvds
+
+      redirect_to torrents_url
+  end
+
   def download
     if params[:url]
       Torrent.download(params[:url])
