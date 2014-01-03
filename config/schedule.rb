@@ -4,7 +4,7 @@
 # http://en.wikipedia.org/wiki/Cron
   
 
-set :output, "/Users/sampaul/Development/Rails/dvdNINJA/cron_log.log"
+set :output, "/Users/sampaul/Development/SBP/dvdNINJA/cron_log.log"
 
 every 3.hours do
     command 'rvm use 2.0.0@dvdNINJA'
